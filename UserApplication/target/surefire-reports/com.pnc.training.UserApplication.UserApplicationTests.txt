@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.pnc.training.UserApplication.UserApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.995 sec - in com.pnc.training.UserApplication.UserApplicationTests
